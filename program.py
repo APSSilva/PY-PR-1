@@ -1,1 +1,1 @@
-print("hello world")
+print("Welcome to Brand Name Creator")
